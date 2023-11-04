@@ -1,0 +1,2 @@
+Tasks Organizer is a task management web application.
+This application will allow users to create, updatem and delete tasks. It will also allow users to categorize tasks into different projects.
